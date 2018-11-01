@@ -1,0 +1,10 @@
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\bin\Debug\BugFinder.exe.config
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\bin\Debug\BugFinder.exe
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\bin\Debug\BugFinder.pdb
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.csprojAssemblyReference.cache
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.Form1.resources
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.Properties.Resources.resources
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.csproj.GenerateResource.cache
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.exe
+C:\Users\Ideapad 500\source\repos\BugFinder\BugFinder\obj\Debug\BugFinder.pdb
