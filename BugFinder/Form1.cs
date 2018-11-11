@@ -19,7 +19,9 @@ namespace BugFinder
 
         private void label2_Click(object sender, EventArgs e)
         {
-
+            RegistrationForm r = new RegistrationForm();
+            r.MdiParent = this;
+            r.Show();
         }
 
         private void Form1_Load(object sender, EventArgs e)
