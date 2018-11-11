@@ -1,0 +1,11 @@
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\bin\Debug\BugFinders.exe.config
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\bin\Debug\BugFinders.exe
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\bin\Debug\BugFinders.pdb
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.csprojAssemblyReference.cache
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.Properties.Resources.resources
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.csproj.GenerateResource.cache
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.exe
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.pdb
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.LoginForm.resources
+C:\Users\Ideapad 500\source\repos\BugFinders\BugFinders\obj\Debug\BugFinders.Dashboard.resources
